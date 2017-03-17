@@ -1,0 +1,7 @@
+{
+    "config":{
+        "development": "This is dev",
+        "staging": "This is staging"
+    }
+
+}
